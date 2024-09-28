@@ -91,21 +91,6 @@ df.show()
 
 ---
 
-### Captures d'écran
-
-1. **Installation de Docker Desktop** :
-   - Capture de l'interface de téléchargement de Docker Desktop.
-   - Capture de l'interface d'installation de Docker.
-
-2. **Téléchargement de l'image Docker** :
-   - Capture de la commande dans le terminal.
-   - Capture de Docker Desktop montrant l'image téléchargée.
-
-3. **Création du conteneur Docker** :
-   - Capture du terminal avec la commande `docker run`.
-   - Capture de la console Jupyter avec le token généré.
-
----
 
 ## Conclusion
 
