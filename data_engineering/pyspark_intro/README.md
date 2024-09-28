@@ -10,7 +10,7 @@ Ce guide vous montrera comment configurer **PySpark** avec **Docker** et **Jupyt
 ### Étape 1 : Télécharger Docker Desktop
 Rendez-vous sur le [site officiel de Docker](https://www.docker.com/products/docker-desktop) et téléchargez Docker Desktop pour Windows.
 
-![Docker Desktop Download](./src/docker1.png)
+![Docker Desktop Download](./src/docker1.PNG)
 
 ### Étape 2 : Installer Docker Desktop
 - Lancez l'exécutable téléchargé et suivez les étapes d'installation.
@@ -31,7 +31,7 @@ docker pull jupyter/all-spark-notebook
 ### Étape 2 : Vérifier l'image téléchargée
 Dans Docker Desktop, cliquez sur l'onglet **Images** pour vérifier que l'image a bien été téléchargée.
 
-![Docker Image Verification](./src/docker2.png)
+![Docker Image Verification](./src/docker2.PNG)
 
 ---
 
@@ -65,7 +65,7 @@ Une fois le conteneur lancé, une URL avec un token unique sera générée. Vous
 http://127.0.0.1:8888/?token=<votre_token_unique>
 ```
 
-![Jupyter Notebook Token](./src/docker3.png)
+![Jupyter Notebook Token](./src/docker3.PNG)
 
 ---
 
