@@ -1,2 +1,4 @@
 scipy
 jupyter
+pandas
+statsmodels
